@@ -18,6 +18,6 @@ map <F9> :!g++ % && ./a.out <CR>
 
 set tabstop=2
 set softtabstop=0 noexpandtab
-set shiftwidth=4
+set shiftwidth=2
 
 syntax on
